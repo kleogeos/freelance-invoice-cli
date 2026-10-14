@@ -33,6 +33,8 @@ If you're already comfortable in a terminal, this is faster than filling out a f
 
 Prefer a web form instead? Use the free browser version: [invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html) · [rate calculator](https://kleogeos.github.io/freelancer-tools/rate-calculator.html)
 
+Check a contract for missing clauses: [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli)
+
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15)](https://kleogeos.gumroad.com/l/nvjec)
 
 ## License
