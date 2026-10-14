@@ -44,6 +44,8 @@ Check a contract for missing clauses: [contract-checklist-cli](https://github.co
 
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, pay with crypto)](https://kleogeos.github.io/freelancer-tools/kit.html)
 
+Free and will stay free. If it saved you time: [tip with crypto](https://kleogeos.github.io/freelancer-tools/donate.html).
+
 ## License
 
 MIT — do whatever you want with it.
