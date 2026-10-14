@@ -1,0 +1,19 @@
+name: Test CLI
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate invoice from example.json and verify the computed total
+        run: |
+          python invoice.py example.json -o out.html
+          grep -qF 'Invoice INV-0001' out.html
+          grep -qF 'Total: $1,980.00' out.html
+          echo "PASS: invoice.py produced the expected output"
