@@ -1,0 +1,17 @@
+[project]
+name = "freelance-invoice-cli"
+version = "1.0.0"
+description = "Generate a clean HTML invoice from a JSON file. Zero dependencies."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[project.scripts]
+freelance-invoice = "invoice:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["invoice"]
