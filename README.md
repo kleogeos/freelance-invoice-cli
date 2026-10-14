@@ -8,6 +8,13 @@ python3 invoice.py example.json -o invoice.html
 
 Open `invoice.html` in a browser, or print to PDF (Ctrl/Cmd+P → Save as PDF).
 
+### Install (optional)
+
+```bash
+pip install git+https://github.com/kleogeos/freelance-invoice-cli
+freelance-invoice example.json -o invoice.html
+```
+
 ## Invoice JSON format
 
 ```json
