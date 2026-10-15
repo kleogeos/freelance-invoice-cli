@@ -42,7 +42,7 @@ If you're already comfortable in a terminal, this is faster than filling out a f
 
 Prefer a web form instead? Use the free browser version: [invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html) · [rate calculator](https://kleogeos.github.io/freelancer-tools/rate-calculator.html)
 
-Check a contract for missing clauses: [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) · Calculate your hourly rate: [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) · Check if a crypto payment landed: [crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli) · Track billable hours: [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) and [freelance-expense-cli](https://github.com/kleogeos/freelance-expense-cli) for expense tracking
+Check a contract for missing clauses: [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) · Calculate your hourly rate: [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) · Check if a crypto payment landed: [crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli) · Track billable hours: [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) and [freelance-expense-cli](https://github.com/kleogeos/freelance-expense-cli) for expense tracking · Send the quote before the invoice: [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli)
 
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, pay with crypto)](https://kleogeos.github.io/freelancer-tools/kit.html)
 
