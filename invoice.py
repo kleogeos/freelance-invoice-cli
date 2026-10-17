@@ -19,7 +19,7 @@ def render(data):
 
     rows = "\n".join(
         f"<tr><td>{html.escape(i['description'])}</td>"
-        f"<td style='text-align:right'>{i['qty']}</td>"
+        f"<td style='text-align:right'>{html.escape(str(i['qty']))}</td>"
         f"<td style='text-align:right'>{money(i['rate'])}</td>"
         f"<td style='text-align:right'>{money(i['qty'] * i['rate'])}</td></tr>"
         for i in items
